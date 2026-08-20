@@ -14,8 +14,7 @@
 
 
 # 『アイデア収集場』 ～アプリアイデアを投稿・評価しあうSNS型サイト～
-## アプリURL
-https://xn--cckaf4ll70pbsfu56j.com/
+## アプリURL:closed
 
 ## アイコン
 <img height="100" src="app/assets/images/app_logo.png">
